@@ -1,0 +1,79 @@
+2020-06-10 18:45:24,004 DEBUG   MainThread:85690 [wandb_config.py:_load_defaults():133] no defaults not found in config-defaults.yaml
+2020-06-10 18:45:24,095 DEBUG   MainThread:85690 [meta.py:_setup_code_git():49] probe for git information
+2020-06-10 18:45:24,115 DEBUG   MainThread:85690 [run_manager.py:__init__():547] Initialized sync for spamGAN/293ltxht
+2020-06-10 18:45:24,117 INFO    MainThread:85690 [run_manager.py:wrap_existing_process():1147] wrapping existing process 85649
+2020-06-10 18:45:24,148 INFO    MainThread:85690 [run_manager.py:init_run():926] system metrics and metadata threads started
+2020-06-10 18:45:24,148 INFO    MainThread:85690 [run_manager.py:init_run():965] upserting run before process can begin, waiting at most 10 seconds
+2020-06-10 18:45:25,097 INFO    Thread-4  :85690 [run_manager.py:_on_file_created():681] file/dir created: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:45:29,275 INFO    Thread-15 :85690 [run_manager.py:_upsert_run():1054] saving pip packages
+2020-06-10 18:45:29,276 INFO    Thread-15 :85690 [run_manager.py:_upsert_run():1056] initializing streaming files api
+2020-06-10 18:45:29,276 INFO    Thread-15 :85690 [run_manager.py:_upsert_run():1063] unblocking file change observer, beginning sync with W&B servers
+2020-06-10 18:45:29,277 INFO    Thread-4  :85690 [run_manager.py:_on_file_created():681] file/dir created: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:29,277 INFO    MainThread:85690 [run_manager.py:wrap_existing_process():1164] informing user process we are ready to proceed
+2020-06-10 18:45:29,282 INFO    MainThread:85690 [run_manager.py:_sync_etc():1296] entering loop for messages from user process
+2020-06-10 18:45:30,097 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/config.yaml
+2020-06-10 18:45:35,268 INFO    Thread-4  :85690 [run_manager.py:_on_file_created():681] file/dir created: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/requirements.txt
+2020-06-10 18:45:35,268 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:36,100 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:37,101 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:39,102 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:41,103 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:45:42,104 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:43,104 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:44,105 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:46,106 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:48,107 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:51,108 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:52,109 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:53,109 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:53,110 INFO    Thread-4  :85690 [run_manager.py:_on_file_created():681] file/dir created: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-events.jsonl
+2020-06-10 18:45:54,110 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:55,111 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:56,111 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:57,112 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:45:57,112 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:58,112 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:45:59,113 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:00,113 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:01,113 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:02,114 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:03,114 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:04,115 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:05,115 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:06,116 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:07,117 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:08,117 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:09,118 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:10,118 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:11,119 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:12,119 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:13,120 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:46:13,120 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:14,120 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:15,121 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:16,121 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:17,122 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:18,122 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:19,123 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:20,123 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:21,124 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:22,124 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:23,125 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:23,125 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-events.jsonl
+2020-06-10 18:46:24,125 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:25,126 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:26,126 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:26,527 INFO    MainThread:85690 [run_manager.py:_sync_etc():1319] received message from user process: {"exitcode": 1}
+2020-06-10 18:46:26,527 INFO    MainThread:85690 [run_manager.py:_sync_etc():1406] closing log streams and sending exitcode to W&B
+2020-06-10 18:46:26,528 INFO    MainThread:85690 [run_manager.py:shutdown():1070] shutting down system stats and metadata service
+2020-06-10 18:46:27,127 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/output.log
+2020-06-10 18:46:27,127 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-events.jsonl
+2020-06-10 18:46:27,213 INFO    MainThread:85690 [run_manager.py:shutdown():1084] stopping streaming files and file change observer
+2020-06-10 18:46:28,127 INFO    Thread-4  :85690 [run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:46:30,287 INFO    MainThread:85690 [run_manager.py:_sync_etc():1457] syncing files to cloud storage
+2020-06-10 18:46:30,539 INFO    MainThread:85690 [run_manager.py:_sync_etc():1466] syncing complete: https://app.wandb.ai/oliver-s/spamGAN/runs/293ltxht
+7,127 INFO    Thread-4  :85690 [293ltxht:run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-events.jsonl
+2020-06-10 18:46:27,213 INFO    MainThread:85690 [293ltxht:run_manager.py:shutdown():1084] stopping streaming files and file change observer
+2020-06-10 18:46:28,127 INFO    Thread-4  :85690 [293ltxht:run_manager.py:_on_file_modified():692] file/dir modified: /home/yankun/spamGAN/wandb/run-20200611_014523-293ltxht/wandb-metadata.json
+2020-06-10 18:46:30,287 INFO    MainThread:85690 [293ltxht:run_manager.py:_sync_etc():1457] syncing files to cloud storage
+2020-06-10 18:46:30,539 INFO    MainThread:85690 [293ltxht:run_manager.py:_sync_etc():1466] syncing complete: https://app.wandb.ai/oliver-s/spamGAN/runs/293ltxht

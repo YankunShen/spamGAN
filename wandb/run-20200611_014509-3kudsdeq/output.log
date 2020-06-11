@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "final_runner.py", line 130, in <module>
+    data_paths = make_data(train_pcent, unsup_pcent, run)
+  File "final_runner.py", line 69, in make_data
+    os.mkdir(os.path.join(BASEDIR, dir_name))
+FileExistsError: [Errno 17] File exists: '/home/yankun/spamGAN_output/tr10_usp0_0_nogan/'

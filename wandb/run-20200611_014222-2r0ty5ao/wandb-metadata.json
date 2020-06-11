@@ -1,0 +1,26 @@
+{
+    "root": "/home/yankun/spamGAN",
+    "program": "final_runner.py",
+    "git": {
+        "remote": "https://github.com/YankunShen/spamGAN",
+        "commit": "b39025d8e7438610055f46a5a85b35c81833fbed"
+    },
+    "email": null,
+    "startedAt": "2020-06-11T01:42:23.061919",
+    "host": "cn28-vcl9",
+    "username": "yankun",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-3.10.0-1062.9.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core",
+    "python": "3.6.8",
+    "gpu": "GeForce RTX 2080",
+    "gpu_count": 1,
+    "cpu_count": 32,
+    "cuda": "10.0.130",
+    "args": [],
+    "state": "failed",
+    "jobType": null,
+    "mode": "run",
+    "project": "spamGAN",
+    "heartbeatAt": "2020-06-11T01:42:24.654815",
+    "exitcode": 1
+}
