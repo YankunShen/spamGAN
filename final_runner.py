@@ -5,8 +5,6 @@ import importlib
 import spamGAN_train
 import texar
 import random
-import wandb
-wandb.init()
 
 BASEDIR = '/home/yankun/spamGAN_output/'
 
@@ -123,7 +121,7 @@ def make_data(trp, usp, run):
     return data_paths
 
 # 0.5, 0.8 x 0.5, 0.8
-for train_pcent in [1.0]:
+for train_pcent in [0.9]:
     for unsup_pcent in [-1]:
         for run in range(0, 5):
             base_config_file = 'spamGAN_config_smallunsup'
